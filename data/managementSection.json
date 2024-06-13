@@ -1,0 +1,16 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Why Do You Need Smart Contract Auditing?",
+            "description": "Are you concerned about the security of your smart contracts? Our auditing service ensures your contracts are free from vulnerabilities, providing peace of mind and protecting your investments.",
+            "image": "/mockup.svg"
+        },
+        {
+            "id": 2,
+            "title": "Ensuring Security & Reliability in Your Smart Contracts",
+            "description": "Avoid costly mistakes and potential exploits by leveraging our expertise in smart contract auditing. We help you identify and fix vulnerabilities, ensuring your blockchain projects are secure and reliable.",
+            "image": "/mockup2.svg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Featured Services We Provide",
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Vulnerability Assessment",
+            "description": "Thoroughly examine your smart contracts for security flaws, ensuring robust protection against potential threats.",
+            "icon": "/services.svg"
+        },
+        {
+            "id": 2,
+            "title": "Detailed Audit Reports",
+            "description": "Receive in-depth reports that highlight vulnerabilities and provide actionable recommendations for improving your smart contracts.",
+            "icon": "/services2.svg"
+        },
+        {
+            "id": 3,
+            "title": "Security Monitoring",
+            "description": "Stay protected with ongoing monitoring and timely updates to address new and emerging threats in the blockchain ecosystem.",
+            "icon": "/services1.svg"
+        }
+    ]
+}

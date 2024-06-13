@@ -1,0 +1,51 @@
+{
+  "name": "gpt-p5-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.1",
+    "@auth0/nextjs-auth0": "^3.1.0",
+    "@codemirror/lang-javascript": "^6.1.9",
+    "@codemirror/lang-markdown": "^6.2.0",
+    "@codemirror/view": "^6.16.0",
+    "@replit/codemirror-lang-solidity": "^6.0.1",
+    "@uiw/react-codemirror": "^4.21.9",
+    "@vercel/analytics": "^1.0.0",
+    "classnames": "^2.3.2",
+    "codemirror": "^6.0.1",
+    "codemirror-solidity": "^0.2.5",
+    "cors": "^2.8.5",
+    "dompurify": "^3.0.5",
+    "fs": "^0.0.1-security",
+    "jsdom": "^22.1.0",
+    "markdown-it": "^13.0.1",
+    "net": "^1.0.2",
+    "next": "^13.1.1",
+    "openai": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.7",
+    "remark-gfm": "^3.0.1",
+    "tailwind": "^4.0.0",
+    "tailwind-react": "^1.0.1",
+    "tls": "^0.0.1"
+  },
+  "engines": {
+    "node": ">=14.6.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
+  }
+}
